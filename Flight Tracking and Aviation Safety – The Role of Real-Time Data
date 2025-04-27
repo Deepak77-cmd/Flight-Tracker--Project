@@ -1,5 +1,7 @@
-Detailed Explanation of Your Presentation: "Flight Tracking and Aviation Safety – The Role of Real-Time Data"
-Your section focuses on how real-time flight tracking enhances aviation safety, without diving into ADS-B (covered by Aadhi) or collision avoidance systems (covered by Sunderam/Nirmal).
+Detailed Explanation of Your Presentation: 
+"Flight Tracking and Aviation Safety – The Role of Real-Time Data"
+
+This section focuses on how real-time flight tracking enhances aviation safety.
 
 1. Core Concept: What is Real-Time Flight Tracking?
 Definition: Flight tracking refers to the process of monitoring the position, altitude, speed, and status of an aircraft in real time.
@@ -14,36 +16,46 @@ Enables faster emergency response.
 Optimizes fuel efficiency and flight paths.
 
 2. How Real-Time Data Improves Aviation Safety
+
 A. Collision Avoidance
-How? ATC and pilots see live traffic data (e.g., via ADS-B/radar).
+ATC and pilots see live traffic data (e.g., via ADS-B/radar).
 Example: If two planes are on a converging path, real-time alerts allow adjustments.
+
 B. Emergency Response & Search & Rescue (SAR)
-Problem: Before real-time tracking, planes like MH370 (2014) could vanish without a trace.
+Problem: Before real-time tracking, planes like MH370 (2014) of Malaysian Airline could vanish without a trace.
 Solution: Now, ICAO mandates 15-minute tracking intervals (via satellites).
 Tech Used: Emergency Locator Transmitters (ELTs) activate on impact.
+
 C. Weather & Turbulence Avoidance
 Live weather data helps pilots reroute around storms, volcanic ash, or turbulence.
 Example: Delta Air Lines uses real-time weather analytics to reduce turbulence injuries.
+
 D. Predictive Maintenance
 Sensors transmit engine/aircraft health data mid-flight.
 For example, Rolls-Royce monitors jet engines in real time to prevent failures.
 
 3. Challenges in Real-Time Flight Tracking
+
 A. Coverage Gaps
 Radar doesn’t work over oceans → Relies on satellites (still some latency).
 Solution: Space-based ADS-B (e.g., Aireon).
+
 B. Cybersecurity Risks
 ADS-B signals are unencrypted → Vulnerable to spoofing/hacking.
 Solution: Blockchain/AI-based verification in development.
+
 C. Cost & Adoption
 Retrofitting older planes with tracking tech is expensive.
 Smaller airlines may lag behind.
 
 4. The Future of Real-Time Flight Tracking
+
 A. Space-Based Global Coverage
 Companies like Aireon (Iridium NEXT satellites) now provide real-time tracking worldwide, even over oceans.
+
 B. AI & Machine Learning
 Predicts maintenance issues before they happen.
 Analyzes flight patterns for risk detection.
+
 C. Blockchain for Secure Data
 It could prevent ADS-B spoofing by encrypting flight data.
